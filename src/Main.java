@@ -9,6 +9,8 @@ public class Main {
 		// lanjutin code lagi
 
 		// codingan lain -> bagian ini trackingnya terpisah   
+		
+		System.out.println("Edit");
 
 	}
 
